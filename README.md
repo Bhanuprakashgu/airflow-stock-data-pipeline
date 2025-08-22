@@ -23,7 +23,7 @@ Everything runs inside **Docker containers**, so setup is just one command.
 
 ### 1. Clone and move into folder
 ```bash
-git clone <repo-url>
+git clone git remote add origin https://github.com/Bhanuprakashgu/airflow-stock-data-pipeline.git
 ```
 
 ### 2. Edit `.env` file
